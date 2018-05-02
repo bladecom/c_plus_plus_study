@@ -1,1 +1,3 @@
-# c_plus_plus_study
+﻿# c_plus_plus_study
+
+重新开始学习c++语言，发现慕课网上有教程，讲得浅显易懂，先学完免费课程再说。
