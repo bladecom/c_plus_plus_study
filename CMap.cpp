@@ -92,7 +92,7 @@ void CMap::depthFirstTraverse(int nodeIndex)
         getValueFromMatrix(nodeIndex,i,value);
         if(value != 0)  //判断有弧连接其它顶点
         {
-            //再判断该店是否被访问过
+            //再判断该点是否被访问过
             if(m_pNodeArray[i].m_bIsVisted)
             {
                 continue;
